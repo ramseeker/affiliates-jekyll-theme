@@ -13,7 +13,7 @@ body {
 }
 
 a {
-	color:#6FD350;
+	color:#2176fc;
 }
 a,a:hover {
 	transition:all 0.2s;
@@ -36,13 +36,12 @@ pre {
 .mediumnavigation {
 	background: #fff;
         transition: top 0.5s ease-in-out;
-        padding: 1.5rem 1rem;
         box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
 }
 .nav-up {box-shadow:none;}
 
 .site-content {
-    padding-top: 3.5rem;
+    padding-top: -2.5rem;
     margin-top: 57px;
     transition: all 0.4s;
 }
@@ -90,7 +89,7 @@ section.recent-posts {
 }
 .layout-page .section-title h2:before {top:17px;}
 .article-post ol, .article-post ul { margin-bottom:1.5rem;}
-.article-post ol ol, .article-post ul ul {   
+.article-post ol ol, .article-post ul ul {
     list-style: disc;
     margin-bottom:0rem;
 }
@@ -116,7 +115,7 @@ section.recent-posts {
     color: #333;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 0.94em;        
+    font-size: 0.94em;
 	}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
     background: #6FD350;
@@ -144,7 +143,7 @@ section.recent-posts {
         box-shadow:none;
         border:0;
     }
-@media (min-width:992px) {    
+@media (min-width:992px) {
     .mediumnavigation .dropdown-menu {
         border:0;
         box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
@@ -189,7 +188,7 @@ section.recent-posts {
 	line-height: 1.25;
 }
 .listfeaturedtag h2.card-title a,.listrecent h2.card-title a {
-	color: #111;    
+	color: #111;
     font-weight:500;
 }
 .listfeaturedtag h2.card-title a:hover,.listrecent h2.card-title a:hover {
@@ -260,11 +259,9 @@ span.post-read-more a {
     display: inline-block;
     float: right;
      width: 30px;
-    height: 30px;
-    line-height: 30px;
     text-align: center;
-    border: 1px solid #d0d0d0;
-    border-radius: 50%;
+    font-size: 12px;
+    
 }
 span.post-name a,span.post-read-more a:hover {
 	color:rgba(0,0,0,.8);
@@ -538,7 +535,7 @@ ul.tags li a {
     border-radius: 3px;
     font-weight: 500;
     font-size: 0.93em;
-    text-transform: capitalize;    
+    text-transform: capitalize;
     box-shadow: 0 6px 10px 0 rgba(169, 169, 169, 0.1);
 }
 ul.tags li a:hover {
@@ -857,7 +854,11 @@ iframe {
     .sidebar {max-width:100%;}
     .copyright .pull-left, .copyright .pull-right {float:none;}
     .beforefooter {text-align:center;}
-    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }    
+    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
     
 }
+
+td {padding: 15px;}
+td {padding: 5px;}
+
