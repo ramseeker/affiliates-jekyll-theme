@@ -6,9 +6,9 @@ meta_description: "Internal External Cloud Storage Solutions"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: ''
+url: "https://drivespace.co"
+baseurl: ""
 email: 'macseek@gmail.com'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
   
 # Plugins
