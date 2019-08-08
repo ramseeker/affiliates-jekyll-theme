@@ -118,7 +118,7 @@ section.recent-posts {
     font-size: 0.94em;
 	}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
-    background: #6FD350;
+    background: blue;
     color: #fff;
     border-radius: 4px;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
@@ -568,7 +568,7 @@ a.btn {color:#fff;}
     font-size:15px;
 }
 .btn-primary {
-    background-color: #675bff;
+    background-color: blue;
     border-color: #675bff;
 }
 .btn.follow {
