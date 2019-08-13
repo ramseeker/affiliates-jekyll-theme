@@ -3,7 +3,6 @@ title: Best External SSD under $100.00
 layout: post
 image: assets/images/samsungt5.jpg
 categories: [ External, SSD ]
-featured: true
 ---
 
 The [Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD (MU-PA500B/AM)](https://amzn.to/2KxFEeQ) is the best solution for a portable and light external SSD that sells for under $100.00.

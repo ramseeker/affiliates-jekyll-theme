@@ -3,7 +3,6 @@ layout: post
 title:  Best External Hard Drive under $100
 categories: [ External, HD ]
 image: assets/images/drive1.webp
-featured: true
 ---
 
 This [Western Digital 2TB Elements Portable External Hard Drive](https://amzn.to/2MLVSUi) costs about $65.00 and is one of the best prices for a portable external hard drive in this size range. If you need a smaller drive the 1TB approximate $50.00 [check price]{https://amzn.to/2MLVSUi) is also available and the 4TB version sells for just under $100 in most cases [check price](https://amzn.to/2MLVSUi).

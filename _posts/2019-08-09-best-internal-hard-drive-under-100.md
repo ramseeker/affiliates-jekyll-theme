@@ -3,7 +3,6 @@ title: Best Internal Hard Drive under $100.00
 layout: post
 image: assets/images/seagate2tb.jpg
 categories: [ Internal, HD ]
-featured: true
 ---
 
 The Seagate [Seagate BarraCuda 2TB Internal Hard Drive HDD](https://amzn.to/2yNsGE6) sells for about $50.00 and is the best internal 3.5 inch hard drive for most of us.
